@@ -1,0 +1,6 @@
+{
+  "python.defaultInterpreterPath": "/workspaces/data-science-mentorship/.venv/bin/python",
+  "python.analysis.extraPaths": [
+    "/workspaces/data-science-mentorship/.venv/lib/python3.12/site-packages"
+  ]
+}
